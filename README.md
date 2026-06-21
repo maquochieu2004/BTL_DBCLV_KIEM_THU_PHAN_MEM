@@ -1,6 +1,6 @@
 # Higher-order Bugs và Giới hạn của Kiểm thử
 
-Dự án minh họa thực nghiệm cho tiểu luận môn **Hệ quản trị CSDL phân tán**.
+Dự án minh họa thực nghiệm cho tiểu luận môn **ĐẢM BẢO CHẤT LƯỢNG VÀ KIỂM THỬ PHẦN MỀM**.
 
 ## Mô tả
 
