@@ -16,6 +16,27 @@ Hệ thống demo gồm 3 module độc lập (Đơn hàng, Thanh toán, Kho hà
 | **Kịch bản lỗi** | Mô tả các Higher-order Bug theo tiểu luận |
 | **Báo cáo** | Lịch sử kiểm thử và trạng thái tồn kho |
 
+## Giao Diện
+
+<img width="1902" height="981" alt="Screenshot 2026-06-22 015850" src="https://github.com/user-attachments/assets/7b5afe3e-fba9-4814-99ee-9f04c7c58bef" />
+
+## Hệ thống Demo - Thương mại điện tử đa module
+
+<img width="1919" height="843" alt="Screenshot 2026-06-22 015934" src="https://github.com/user-attachments/assets/e5c842d5-0976-4c00-91bb-33d8229de4c1" />
+
+## Kiểm thử phần mềm
+
+<img width="1908" height="991" alt="Screenshot 2026-06-22 020034" src="https://github.com/user-attachments/assets/6a6e5c84-a026-4f7c-866a-5029f45744b9" />
+
+## Kịch bản Higher-order Bugs
+
+<img width="1905" height="1020" alt="Screenshot 2026-06-22 020143" src="https://github.com/user-attachments/assets/6cb4e307-4f05-49ae-ac07-bbd68308e0a1" />
+
+## Báo cáo kiểm thử
+
+<img width="1905" height="999" alt="Screenshot 2026-06-22 020244" src="https://github.com/user-attachments/assets/567927a8-6218-484d-98b1-6ac8df7b3def" />
+
+
 ## Cài đặt
 
 ```bash
