@@ -70,6 +70,6 @@ tests/
 
 ## Liên hệ đề tài
 
-- **Sinh viên:** Ma Quốc Hiếu, Tạ Phạm Đình Hòa
-- **GVHD:** Ths. Nguyễn Thị Hương
+- **Sinh viên:** Ma Quốc Hiếu, 
+- **GVHD:** Ths. Nguyên Tiến Linh
 - **Trường:** ĐHKTCN - Khoa Điện tử
