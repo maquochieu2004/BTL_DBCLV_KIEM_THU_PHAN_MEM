@@ -1,4 +1,5 @@
 # Higher-order Bugs và Giới hạn của Kiểm thử
+https://youtu.be/qTobm4wH-oA?si=fo4GZZtvlohv1THP
 
 Dự án minh họa thực nghiệm cho tiểu luận môn **ĐẢM BẢO CHẤT LƯỢNG VÀ KIỂM THỬ PHẦN MỀM**.
 
